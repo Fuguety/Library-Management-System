@@ -1,8 +1,14 @@
-# Library Management System
+# Library Management System 📚
 
 ## Setup PostgreSQL Database
 
 Before you proceed with the project, make sure to watch this video to set up PostgreSQL: [PostgreSQL Setup Video](https://www.youtube.com/watch?v=RdPYA-wDhTA)
+
+Also make sure you have Docker installed
+
+> [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.youtube.com/watch?v=RdPYA-wDhTA)</br>
+> [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+](https://www.docker.com)
 
 ## Initial Setup
 
@@ -70,4 +76,16 @@ The project includes a Library Management System with the following features:
 
 - Comment out the Borrow 1.0 and History sections in the `Main` class if using Borrow 2.0.
 
-Feel free to adapt the project to your needs. ¡Feliz codificación! 😊
+Feel free to adapt the project to your needs.😊
+</br></br>
+
+#### Code made with
+
+> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black) </br>
+> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) </br>
+> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</br>
+> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+This project is licensed under the **[MIT License](https://opensource.org/license/mit/).**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
